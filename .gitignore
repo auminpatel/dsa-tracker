@@ -1,0 +1,22 @@
+# Backup files
+index-backup.html
+DSA_Complete_Interactive_Tracker_Full.html
+*.md~*
+
+# Development files
+extract_dsa_data.py
+demo-json-based.html
+firestore.rules
+
+# IDE files
+.qodo/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
